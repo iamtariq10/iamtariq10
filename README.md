@@ -1,12 +1,10 @@
  ### Hello World ! 👋😄👋
  <table>
- <tr>
-  <td width="50%">
+
 ✔️ React Developer ❄️
 
    <img width="400" height="300"  aligh="centre" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-  </td>
- </tr>
+
  <tr>
   <td width="50%">
  <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻 
