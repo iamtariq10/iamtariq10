@@ -18,7 +18,7 @@
 - ⚡ Fun fact:Watching Movies,Learning new things,Exploring new technologies ...
 - 💯 Favourite Extension: " Live Server " 
   
-- [![Alt text for your video](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+- [![Alt text for your video](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
 
