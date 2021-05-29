@@ -1,8 +1,8 @@
  ### Hello World ! 👋😄👋
 ✔️ React Developer ❄️
-<img width="400" height="300"  aligh="centre" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-  <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻
+
+  <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻 <img width="400" height="300"  aligh="centre" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 - 🔭 I’m currently working on some React Projects...
 - 💙 I like HTML , CSS , JAVASCRIPT , REACT.JS, REACT NATIVE , FIREBASE , GIT , GITHUB , NODE.JS , MONGODB , REDUX , NPM , MATERIAL UI , REACTSTRAP , GRAPHQL...
