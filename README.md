@@ -14,7 +14,7 @@
 - 💊 Pill:My pill is programming...
 - ⚡ Fun fact:Watching Movies,Learning new things,Exploring new technologies ...
 - 💯 Favourite Extension: " Live Server " 
-<img aligh="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img width="100" height="100" border="10" aligh="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 
