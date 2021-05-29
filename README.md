@@ -4,7 +4,7 @@
 ✔️ React Developer ❄️
 
   <centre> <img width="300" height="230" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> </centre>
- <img width="300" src="https://media.giphy.com/media/xT5LME6604zSIW4YBq/giphy.gif" />
+ <img width="300" height="230" src="https://media.giphy.com/media/xT5LME6604zSIW4YBq/giphy.gif" />
 
  <tr>
   <td width="50%">
