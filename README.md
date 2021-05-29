@@ -1,4 +1,4 @@
-### Hello World ! 👋😄👋
+<div aligh="left"> ### Hello World ! 👋😄👋
 ✔️ React Developer ❄️
 
   <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻
@@ -17,7 +17,8 @@
 - 💊 Pill:My pill is programming...
 - ⚡ Fun fact:Watching Movies,Learning new things,Exploring new technologies ...
 - 💯 Favourite Extension: " Live Server " 
-- <img  align="left">[![Alt text for your video](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) </img>
+  </div>
+- <div  align="rith">[![Alt text for your video](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) </div>
 
 
 
