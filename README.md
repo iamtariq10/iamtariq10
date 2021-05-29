@@ -2,7 +2,6 @@
  
  ✔️ React Developer ❄️
 <img width="350" height="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 <img width="300" height="250" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
 
