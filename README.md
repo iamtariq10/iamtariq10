@@ -1,10 +1,11 @@
  ### Hello World ! 👋😄👋
  <table>
- <tr width=
+ <tr width="50%">
 ✔️ React Developer ❄️
 
    <img width="400" height="300"  aligh="centre" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
- 
+ </tr>
+ <tr width="50%">
  <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻 
 
 - 🔭 I’m currently working on some React Projects...
@@ -18,9 +19,9 @@
 - 💊 Pill:My pill is programming...
 - ⚡ Fun fact:Watching Movies,Learning new things,Exploring new technologies ...
 - 💯 Favourite Extension: " Live Server " 
-
+ </tr>
 </table>
 
 
 
-<h1>Heading 1</h1>
+
