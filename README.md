@@ -3,8 +3,8 @@
 
 ✔️ React Developer ❄️
 
-  <centre> <img width="350" height="230" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> </centre>
- <img width="300" height="230" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+  <centre> <img width="350" height="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> </centre>
+ <img width="300" height="250" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
  <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻 
 
