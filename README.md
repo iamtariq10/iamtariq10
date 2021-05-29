@@ -3,7 +3,7 @@
 
 ✔️ React Developer ❄️
 
-   <img width="400" height="300"  aligh="centre" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+   <img width="400" height="300"  align="centre" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
  <tr>
   <td width="50%">
