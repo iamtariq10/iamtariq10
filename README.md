@@ -1,11 +1,13 @@
  ### Hello World ! 👋😄👋
  
- ✔️ React Developer ❄️
+ ✔️ <h3>React Developer</h3> ❄️ 
 <img width="350" height="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 
  <I am Tariq , so grateful to be sharing my profile with you., a self-motivated web developer from Pakistan/> 👉 💻 
+ 
+ ![github stats](https://github-readme-stats.vercel.app/api?username=iamtariq10&show_icons=true)
 
 - 🔭 I’m currently working on some React Projects...
 - 💙 I like HTML , CSS , JAVASCRIPT , REACT.JS, REACT NATIVE , FIREBASE , GIT , GITHUB , NODE.JS , MONGODB , REDUX , NPM , MATERIAL UI , REACTSTRAP , GRAPHQL...
